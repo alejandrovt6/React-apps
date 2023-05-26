@@ -1,4 +1,4 @@
-# 🎂 Birthday Reminder
+# ✈️ Tours
 
 ## 🛠️ Usage
 
@@ -8,5 +8,4 @@ npm start
 ```
 
 ## 📷 Images
-
-![Capture](/Birthday-reminder/public/capt.png)
+![Capture](/setup/public/Captura.PNG)
