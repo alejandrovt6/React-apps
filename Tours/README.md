@@ -8,4 +8,4 @@ npm start
 ```
 
 ## 📷 Images
-![Capture](/setup/public/Captura.PNG)
+![Capture](/Tours/public/Captura.PNG)
