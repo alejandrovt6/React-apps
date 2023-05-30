@@ -1,4 +1,4 @@
-# 🎂 Birthday Reminder
+# 🎂 Birthday reminder
 
 ## 🛠️ Usage
 
@@ -7,6 +7,6 @@ Once you have completed the installation, you can run the application.
 npm start
 ```
 
-## 📷 Images
+## 📷 Image
 
-![Capture](/Birthday-reminder/public/capt.png)
+![Capture](/01-Birthday-reminder/public/capt.png)

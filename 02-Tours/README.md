@@ -7,5 +7,5 @@ Once you have completed the installation, you can run the application.
 npm start
 ```
 
-## 📷 Images
-![Capture](/Tours/public/Captura.PNG)
+## 📷 Image
+![Capture](/02-Tours/public/Captura.PNG)
