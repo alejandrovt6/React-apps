@@ -19,7 +19,7 @@ export function TwitterFollowCard ({ children, userName, initialIsFollowing }) {
       <header className='tw-followCard-header'>
         <img
           className='tw-followCard-avatar'
-          alt='El avatar de midudev'
+          alt='avatar'
           src={`https://unavatar.io/${userName}`}
         />
         <div className='tw-followCard-info'>
