@@ -6,7 +6,7 @@
 
   color-scheme: light dark;
   color: rgba(255, 255, 255, 0.87);
-  background-color: #242424;
+  background-color: #085f22;
 
   font-synthesis: none;
   text-rendering: optimizeLegibility;
@@ -43,7 +43,7 @@ body {
 .board button {
   padding: 8px 12px;
   margin: 25px;
-  background: transparent;
+  background: #085f22;
   border: 2px solid #eee;
   color: #eee;
   width: 100px;
@@ -54,8 +54,8 @@ body {
 }
 
 .board button:hover {
-  background: #eee;
-  color: #222;
+  background: #ec0606;
+  color: #ffffff;
 }
 
 .board .game {
@@ -83,7 +83,7 @@ body {
 
 .square.is-selected {
   color: #fff;
-  background: #09f;
+  background: rgb(12, 226, 76);
 }
 
 .winner {
@@ -98,7 +98,7 @@ body {
 }
 
 .winner .text {
-  background: #111;
+  background: #085f22;
   height: 300px;
   width: 320px;
   border: 2px solid #eee;
