@@ -1,6 +1,13 @@
 # ❌ Tic Tac Toe ⭕
 
 ## 🛠️ Usage
+Download this repo with git pull.
+
+Install vite:
+```
+npm init -y
+npm create vite@latest
+```
 
 Once you have completed the installation, you can run the application.
 ```
