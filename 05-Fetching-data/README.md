@@ -14,4 +14,4 @@ Random image: https://cataas.com/cat/says/hello
 
 ## 🔎 Example
 
-![Cat_img](/img/cat.PNG)
+![Cat_img](./img/cat.PNG)
