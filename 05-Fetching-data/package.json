@@ -1,5 +1,5 @@
 {
-  "name": "vite-project",
+  "name": "05-fetching-data",
   "private": true,
   "version": "0.0.0",
   "type": "module",
@@ -9,11 +9,15 @@
     "preview": "vite preview"
   },
   "devDependencies": {
+    "standard": "^17.1.0",
     "vite": "^4.3.9"
   },
   "dependencies": {
-    "@vitejs/plugin-react": "4.0.0",
-    "react": "18.2.0",
-    "react-dom": "18.2.0"
+    "@vitejs/plugin-react": "4.0.1",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  },
+  "eslintConfig": {
+    "extends": "./node_modules/standard/eslintrc.json"
   }
 }
